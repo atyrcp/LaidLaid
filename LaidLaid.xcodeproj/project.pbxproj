@@ -13,6 +13,7 @@
 		9338BDC7229E779B00BE4354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9338BDC6229E779B00BE4354 /* Assets.xcassets */; };
 		9338BDCA229E779B00BE4354 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9338BDC8229E779B00BE4354 /* LaunchScreen.storyboard */; };
 		9338BDD2229ED3BF00BE4354 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9338BDD1229ED3BF00BE4354 /* CustomTableViewCell.swift */; };
+		9338BDD4229EDB1100BE4354 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9338BDD3229EDB1100BE4354 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9338BDC9229E779B00BE4354 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9338BDCB229E779B00BE4354 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9338BDD1229ED3BF00BE4354 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		9338BDD3229EDB1100BE4354 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9338BDBF229E779900BE4354 /* AppDelegate.swift */,
 				9338BDC1229E779900BE4354 /* ViewController.swift */,
+				9338BDD3229EDB1100BE4354 /* DetailViewController.swift */,
 				9338BDD1229ED3BF00BE4354 /* CustomTableViewCell.swift */,
 				9338BDC3229E779900BE4354 /* Main.storyboard */,
 				9338BDC6229E779B00BE4354 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				9338BDD2229ED3BF00BE4354 /* CustomTableViewCell.swift in Sources */,
 				9338BDC2229E779900BE4354 /* ViewController.swift in Sources */,
 				9338BDC0229E779900BE4354 /* AppDelegate.swift in Sources */,
+				9338BDD4229EDB1100BE4354 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
